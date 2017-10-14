@@ -1,1 +1,9 @@
 An heo ngu ngoc :))
+#include <stdio.h>
+#include <conio.h>
+void main()
+{
+  clrscr();
+  printf("An ngu ngoc tap 2");
+  getch();
+}
